@@ -4,13 +4,8 @@
 <hr>
 
 ### How to use:
-2. Secondary click a folder or files and hover over **Quick actions**.
-3. Select **Open With Code**.
-
-<hr>
-
-### How it works:
-<p align="left"><img src= https://raw.githubusercontent.com/mylesotoole/CompressForGooglePhotos/main/Compress%20For%20Google%20Photos.workflow/Contents/QuickLook/Preview.png width="600"></p>
+2. **Secondary-click** a folder or files and hover over ```Quick actions``` to display an extended menu.
+3. Select ```Open With Code```.
 
 <hr>
 
